@@ -1,6 +1,7 @@
 Script Created by :
 1. Jonathan Richard (https://github.com/jonathanrichardl)
 2. Ervin Halimsurya ()
+
 Department of Electrical Engineering, University of Indonesia. 
 # VideoCompression
 This Repository contains a script for encoding and decoding of fully colored videos with User Interface, fully coded in Python. Encoding uses binary files so that the compression ratio is maximized. For studying purposes. 

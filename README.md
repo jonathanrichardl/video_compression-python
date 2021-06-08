@@ -1,6 +1,6 @@
 Script Created by :
 1. Jonathan Richard (https://github.com/jonathanrichardl)
-2. Ervin Halimsurya ()
+2. Ervin Halimsurya (https://github.com/ErvinHalimsurya)
 
 Department of Electrical Engineering, University of Indonesia. 
 # VideoCompression
